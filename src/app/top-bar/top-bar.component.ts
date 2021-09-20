@@ -5,11 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './top-bar.component.html',
   styleUrls: ['./top-bar.component.css'],
 })
-export class TopBarComponent {
-  checkOut() {
-    window.alert('Check out clicked!');
-  }
-}
+export class TopBarComponent {}
 
 /*
 Copyright Google LLC. All Rights Reserved.
